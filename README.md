@@ -1,3 +1,13 @@
-# hw3
+### Опрос. Тип кожи
+Мой опрос состоит из вопросов о: 
+* особенностях вышей кожи
+* ее состоянии 
+* ваших предпочтениях в уходе
 
-https://docs.google.com/forms/d/1T7bTRdfbRIKhxSHG_gQ_khTfwTWCIaQ6CSMHHFnyD8s/viewform?edit_requested=true
+__Форма не служит способом выялвения вашего типа кожи, т.к. достоверную информацию стоит получить у специалиста__
+
+В опросе приняло участие 44 человека обоих полов, преимущественно моложе 25 лет. Не все из них (30 - да, 14 - нет) знали свой тип кожи, но большинство (10/14) заинтересовались этим вопросом.
+
+Опрос: https://docs.google.com/forms/d/1T7bTRdfbRIKhxSHG_gQ_khTfwTWCIaQ6CSMHHFnyD8s/viewform?edit_requested=true
+
+Ответы: https://docs.google.com/spreadsheets/d/1eYTPc9WS1ErlpXbK6_U0xSKo9bK1l6AL-DxLzf9JRTg/edit#gid=430785733
